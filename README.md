@@ -13,6 +13,7 @@ patterns, and a browser support chart.
   - Prefixing Flexbox
   - Related Properties
   - More Flexbox Information
+  - Flexbox USE Cases
 
 <h2 id="ch1">01. CSS Flexbox Background</h2>
 <details>
@@ -60,8 +61,11 @@ Note: Flexbox layout is most appropriate to the components of an application, an
 </details>
 
 <details>
-  <summary>09. More Flexbox Information</summary>
+  <summary>
+  <h3>09. <a href="ch09">More Flexbox Information</a></h3></summary>
 </details>
+
+<h3 id="ch10">10. <a href="https://www.smashingmagazine.com/2018/10/flexbox-use-cases/">Flexbox USE Cases</a></h3>
 
 
 # [Skeleton](http://getskeleton.com)
