@@ -16,7 +16,7 @@ patterns, and a browser support chart.
 
 <h2 id="ch1">01. CSS Flexbox Background</h2>
 <details>
-  <summary>Background</summary>
+  <summary>01. CSS Flexbox Background</summary>
 The Flexbox Layout (Flexible Box) module provides a more efficient way to lay out, align and distribute space among items in a container, even when their size is unknown and/or dynamic (thus the word “flex”).
 
 The main idea behind the flex layout is to give the container the ability to alter its items’ width/height (and order) to best fill the available space (mostly to accommodate to all kind of display devices and screen sizes). A flex container expands items to fill available free space or shrinks them to prevent overflow.
@@ -27,6 +27,41 @@ Note: Flexbox layout is most appropriate to the components of an application, an
 
 </details>
 
+<details>
+  <summary>02. CSS Flexbox Properties</summary>
+<p>Pictures and description under each.</p>
+</details>
+
+
+<details>
+  <summary>03. Interactive Walkthrough</summary>
+<p></p>
+
+</details>
+
+<details>
+  <summary>04. CSS Flexbox Demos</summary>
+</details>
+
+<details>
+  <summary>05. Flexbox Tricks</summary>
+</details>
+
+<details>
+  <summary>06. Flexbox Browser Support</summary>
+</details>
+
+<details>
+  <summary>07. Prefixing Flexbox</summary>
+</details>
+
+<details>
+  <summary>08. Related Properties</summary>
+</details>
+
+<details>
+  <summary>09. More Flexbox Information</summary>
+</details>
 
 
 # [Skeleton](http://getskeleton.com)
