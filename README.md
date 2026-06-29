@@ -4,8 +4,8 @@ parent element (the flex container) and the child elements (the flex items). It 
 patterns, and a browser support chart.
 
 ## CSS Flexbox Table of Contents
-  1 CSS Flexbox Background
-  2 CSS Flexbox Properties
+  1 <a href="ch01">CSS Flexbox Background</a>
+  2 <a href="ch02">CSS Flexbox Properties
   3 Interactive Walkthrough
   4 CSS Flexbox Demos
   5 Flexbox Tricks
@@ -15,10 +15,11 @@ patterns, and a browser support chart.
   9 More Flexbox Information
   10 Flexbox USE Cases
 
-<h2 id="ch1">01. CSS Flexbox Background</h2>
 <details>
-  <summary>01. CSS Flexbox Background</summary>
-The Flexbox Layout (Flexible Box) module provides a more efficient way to lay out, align and distribute space among items in a container, even when their size is unknown and/or dynamic (thus the word “flex”).
+  <summary>
+    <h2 id="ch01">01. CSS Flexbox Background</h2>
+  </summary>
+    The Flexbox Layout (Flexible Box) module provides a more efficient way to lay out, align and distribute space among items in a container, even when their size is unknown and/or dynamic (thus the word “flex”).
 
 The main idea behind the flex layout is to give the container the ability to alter its items’ width/height (and order) to best fill the available space (mostly to accommodate to all kind of display devices and screen sizes). A flex container expands items to fill available free space or shrinks them to prevent overflow.
 
@@ -29,45 +30,61 @@ Note: Flexbox layout is most appropriate to the components of an application, an
 </details>
 
 <details>
-  <summary>02. CSS Flexbox Properties</summary>
-<p>Pictures and description under each.</p>
+  <summary>
+    <h2 id="ch02">02. CSS Flexbox Properties</h2>
+  </summary>
+  <p>Pictures and description under each.</p>
+
 </details>
 
 
 <details>
-  <summary>03. Interactive Walkthrough</summary>
+  <summary>
+    <h2 id="ch03">03. Interactive Walkthrough</h2>
+  </summary>
 <p></p>
 
 </details>
 
 <details>
-  <summary>04. CSS Flexbox Demos</summary>
-</details>
-
-<details>
-  <summary>05. Flexbox Tricks</summary>
-</details>
-
-<details>
-  <summary>06. Flexbox Browser Support</summary>
-</details>
-
-<details>
-  <summary>07. Prefixing Flexbox</summary>
-</details>
-
-<details>
-  <summary>08. Related Properties</summary>
+  <summary>
+    <h2 id="ch04">04. CSS Flexbox Demos</h2>
+  </summary>
 </details>
 
 <details>
   <summary>
-  <h3>09. <a href="ch09">More Flexbox Information</a></h3></summary>
+    <h2 id="ch05">05. Flexbox Tricks</h2>
+  </summary>
 </details>
 
 <details>
   <summary>
-  <h3 id="ch10">10. <a href="https://www.smashingmagazine.com/2018/10/flexbox-use-cases/">Flexbox USE Cases</a></h3>
+    <h2 id="ch06">06. Flexbox Browser Support</h2>
+  </summary>
+</details>
+
+<details>
+  <summary>
+    <h2 id="ch07">07. Prefixing Flexbox</h2>
+  </summary>
+</details>
+
+<details>
+  <summary>
+    <h2 id="ch08">08. Related Properties</h2>
+  </summary>
+</details>
+
+<details>
+  <summary>
+    <h2 id="ch09">09. <a href="ch09">More Flexbox Information</a></h2>
+  </summary>
+</details>
+
+<details>
+  <summary>
+    <h2 id="ch10">10. <a href="https://www.smashingmagazine.com/2018/10/flexbox-use-cases/">Flexbox USE Cases</a></h2>
   </summary>
 </details>
 
