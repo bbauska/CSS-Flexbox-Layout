@@ -65,8 +65,11 @@ Note: Flexbox layout is most appropriate to the components of an application, an
   <h3>09. <a href="ch09">More Flexbox Information</a></h3></summary>
 </details>
 
-<h3 id="ch10">10. <a href="https://www.smashingmagazine.com/2018/10/flexbox-use-cases/">Flexbox USE Cases</a></h3>
-
+<details>
+  <summary>
+  <h3 id="ch10">10. <a href="https://www.smashingmagazine.com/2018/10/flexbox-use-cases/">Flexbox USE Cases</a></h3>
+  </summary>
+</details>
 
 # [Skeleton](http://getskeleton.com)
 Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
