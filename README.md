@@ -3,7 +3,7 @@ This complete guide explains everything about flexbox, focusing on all the diffe
 parent element (the flex container) and the child elements (the flex items). It also includes history, demos, 
 patterns, and a browser support chart.
 
-<a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox">Mozilla CSS Layout under Flexbox</a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox">CSS Layout: Flexbox (MDN)</a>
 
 ## CSS Flexbox Table of Contents
   - 1 <a href="ch01">CSS Flexbox Background</a>
