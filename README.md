@@ -3,6 +3,17 @@ This complete guide explains everything about flexbox, focusing on all the diffe
 parent element (the flex container) and the child elements (the flex items). It also includes history, demos, 
 patterns, and a browser support chart.
 
+## CSS Flexbox Table of Contents
+  - CSS Flexbox Background
+  - CSS Flexbox Properties
+  - Interactive Walkthrough
+  - CSS Flexbox Demos
+  - Flexbox Tricks
+  - Flexbox Browser Support
+  - Prefixing Flexbox
+  - Related Properties
+  - More Flexbox Information
+
 
 # [Skeleton](http://getskeleton.com)
 Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
