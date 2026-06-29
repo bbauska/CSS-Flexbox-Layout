@@ -5,6 +5,8 @@ patterns, and a browser support chart.
 
 <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox">CSS Layout: Flexbox (MDN)</a>
 
+<p><a href="https://www.smashingmagazine.com/2018/10/flexbox-use-cases/">Use Cases for Flexbox</a> (Smashing Magazine)</p>
+
 ## CSS Flexbox Table of Contents
   - 1 <a href="ch01">CSS Flexbox Background</a>
   2 <a href="ch02">CSS Flexbox Properties
