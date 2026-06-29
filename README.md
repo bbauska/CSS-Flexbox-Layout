@@ -4,7 +4,7 @@ parent element (the flex container) and the child elements (the flex items). It 
 patterns, and a browser support chart.
 
 ## CSS Flexbox Table of Contents
-  1 <a href="ch01">CSS Flexbox Background</a>
+  - 1 <a href="ch01">CSS Flexbox Background</a>
   2 <a href="ch02">CSS Flexbox Properties
   3 Interactive Walkthrough
   4 CSS Flexbox Demos
