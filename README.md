@@ -4,16 +4,16 @@ parent element (the flex container) and the child elements (the flex items). It 
 patterns, and a browser support chart.
 
 ## CSS Flexbox Table of Contents
-  - CSS Flexbox Background
-  - CSS Flexbox Properties
-  - Interactive Walkthrough
-  - CSS Flexbox Demos
-  - Flexbox Tricks
-  - Flexbox Browser Support
-  - Prefixing Flexbox
-  - Related Properties
-  - More Flexbox Information
-  - Flexbox USE Cases
+  1 CSS Flexbox Background
+  2 CSS Flexbox Properties
+  3 Interactive Walkthrough
+  4 CSS Flexbox Demos
+  5 Flexbox Tricks
+  6 Flexbox Browser Support
+  7 Prefixing Flexbox
+  8 Related Properties
+  9 More Flexbox Information
+  10 Flexbox USE Cases
 
 <h2 id="ch1">01. CSS Flexbox Background</h2>
 <details>
